@@ -8,7 +8,7 @@ public class AppController {
 
 	@RequestMapping("/")
 	public String message() {
-		return "hello";
+		return "hello good morning!!!!";
 	}
 	
 }
